@@ -35,7 +35,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.example.ex6.App</mainClass>
+              <mainClass>com.example.ex9.App</mainClass>
             </manifest>
           </archive>
         </configuration>
